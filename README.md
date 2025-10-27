@@ -89,6 +89,5 @@ Key packages:
 
 ## 👤 Author & Date
 
-**Author:** Pratham Jain
+**Author:** Prathamesh Shinde
 **Date:** October 26, 2025
-**Contact:** [pratham.jain@example.com](mailto:pratham.jain@example.com)
